@@ -80,15 +80,15 @@ description: Our commitment to your privacy and data protection.
     <h3>1.1 English, Not Legalese</h3>
     <p>Privacy is important, and we want you to understand the issues involved. We've chosen to use plain English as much as possible to make our terms clear. Some sections still have room for improvement - we plan to tackle these over time.</p>
     
-    <p>Where you read '[Your Company Name]' it refers to all services made available at [your website URL].</p>
+    <p>Where you read 'Pareza' it refers to all services made available at dazsuper.com.</p>
     
     <div class="contact-info">
-      <p><strong>[Your Company Name]</strong> is the Data Controller for your data. We can be contacted as per the details below:</p>
-      <p>Email: <a href="mailto:info@example.com">info@example.com</a></p>
+      <p><strong>Pareza</strong> is the Data Controller for your data. We can be contacted as per the details below:</p>
+      <p>Email: <a href="mailto:pareza.cd">pareza.cd</a></p>
       <p>Postal address:<br>
-      [Your Company Name]<br>
-      [Your Street Address]<br>
-      [Your City, State, Country]</p>
+      Pareza<br>
+      Daz c/o Pareza  n°1009, Boulevard du 30 Juin, 2eme Etage, Building CNSS, C/ Gombe, <br>
+      Kinshasa, Democratic Republic of Congo</p>
     </div>
     
     <h3>1.2. Scope of This Document</h3>
@@ -146,7 +146,7 @@ description: Our commitment to your privacy and data protection.
     <p>We never knowingly collect or maintain information from those we know are under 16. If you are under 16, please do not use the Service.</p>
     
     <h3>2.6. How can I access or correct my information?</h3>
-    <p>You can request a copy of your data by emailing <a href="mailto:info@example.com">info@example.com</a>.</p>
+    <p>You can request a copy of your data by emailing <a href="mailto:pareza.cd">pareza.cd</a>.</p>
   </section>
 
   <section>
