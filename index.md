@@ -181,7 +181,7 @@ description: Our commitment to your privacy and data protection.
       <li>The right to object</li>
       <li>Rights in relation to automated decision making and profiling.</li>
     </ul>
-    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@postespp.cd">info@postespp.cd</a></p>
+    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@dazspp.cd">info@dazspp.cd</a></p>
     
     <h3>2.2 What information do you collect about me and why?</h3>
     <p>The information we collect is for the purpose of supporting your management of hosted homeservers through Daz Services, or to support operational maintenance of the Daz client. We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.</p>
@@ -216,7 +216,7 @@ description: Our commitment to your privacy and data protection.
     <h5>Connection Information</h5>
     <p>We log the IP addresses of everyone who accesses Daz. This data is used in order to mitigate abuse, debug operational issues, and monitor traffic patterns. Our logs are kept for:</p>
     <ul>
-      <li>180 days, for Posted.cd chat app IP addresses;</li>
+      <li>180 days, for Daz Super chat app IP addresses;</li>
     </ul>
     
     <h5>Usage Information</h5>
@@ -241,14 +241,14 @@ description: Our commitment to your privacy and data protection.
     <h3>2.4. How do you handle passwords?</h3>
     <p>We never store password data in plain text; instead they are stored hashed (with at least 12 rounds of bcrypt, including both a salt and a server-side pepper secret). Passwords sent to the server are encrypted using SSL.</p>
     <p>It is your sole responsibility to keep your user name, password and other sensitive information confidential. Actions taken using your credentials shall be deemed to be actions taken by you, with all consequences including service termination, civil and criminal penalties.</p>
-    <p>If you become aware of any unauthorised use of your account or any other breach of security, you must notify Daz immediately by sending an email to <a href="mailto:info@posteapp.cd">info@posteapp.cd</a>. Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.</p>
+    <p>If you become aware of any unauthorised use of your account or any other breach of security, you must notify Daz immediately by sending an email to <a href="mailto:info@pareza.cd">info@pareza.cd</a>. Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.</p>
     <p>If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.</p>
     
     <h3>2.5. Our commitment to Children's Privacy</h3>
     <p>We never knowingly collect or maintain information in Daz, through any of the Services provided, from those we know are under 16, and no part of Daz is structured to attract anyone under 16. If you are under 16, please do not use the Service.</p>
     
     <h3>2.6. How can I access or correct my information?</h3>
-    <p>If you are a user of the Daz chat app you can request a copy of your data by emailing <a href="mailto:info@posteapp.cd">info@posteapp.cd</a>. We are working on a solution which will allow you to download the data automatically.</p>
+    <p>If you are a user of the Daz chat app you can request a copy of your data by emailing <a href="mailto:info@pareza.cd">info@pareza.cd</a>. We are working on a solution which will allow you to download the data automatically.</p>
     
     <h3>2.7. What are the Guidelines Daz follows when accessing my data?</h3>
     <ul>
@@ -268,13 +268,13 @@ description: Our commitment to your privacy and data protection.
     <p>All of the Daz user data resides within the same dedicated cluster. We use software best practices to guarantee that only the Customer can access it. In other words, we segment User data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts User data on the same database, we cannot guarantee that it is immune to a sophisticated attack.</p>
     
     <h3>2.12. What should I do if I find a security vulnerability in the service?</h3>
-    <p>If you have discovered a security concern, please email us at <a href="mailto:security@posteapp.cd">security@posteapp.cd</a>. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. Information security is our highest priority, and we work to address any issues that arise as quickly as possible.</p>
+    <p>If you have discovered a security concern, please email us at <a href="mailto:security@pareza.cd">security@pareza.cd</a>. We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. Information security is our highest priority, and we work to address any issues that arise as quickly as possible.</p>
     <p>Please act in good faith towards our users' privacy and data during your disclosure. White hat security researchers are always appreciated.</p>
   </section>
 
   <section>
     <h2>3. Making a Complaint</h2>
-    <p>We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at <a href="mailto:info@posteapp.cd">info@posteapp.cd</a> if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.</p>
+    <p>We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at <a href="mailto:info@pareza.cd">info@pareza.cd</a> if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.</p>
     <p>If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law) at <a href="https://www.ico.org.uk/concerns" target="_blank">https://www.ico.org.uk/concerns</a>.</p>
   </section>
 </div>
