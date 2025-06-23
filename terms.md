@@ -170,7 +170,7 @@ description: Legal terms governing the use of Daz App
     </ul>
     
     <h3>6. Intellectual Property</h3>
-    <p>All materials in Daz App---including software, text, images, graphics, and logos---are the property of <strong>Pareza SASU</strong> or licensed third parties.</p>
+    <p>All materials in Daz App including software, text, images, graphics, and logos---are the property of <strong>Pareza SASU</strong> or licensed third parties.</p>
     <p>You may not copy, reproduce, modify, or distribute any part of the App unless authorized in writing by Pareza SASU.</p>
     
     <h3>7. Privacy and Data</h3>
@@ -206,7 +206,7 @@ description: Legal terms governing the use of Daz App
       <p>For questions, support, or legal concerns, please contact:</p>
       <p><strong>Pareza SASU</strong><br>
       📍 77 avenue de la Justice, Gombe, Kinshasa, DRC<br>
-      📧 Email: <a href="mailto:info@parezagroup.com">info@parezagroup.com</a></p>
+      📧 Email: <a href="mailto:info@pareza.cd">info@pareza.cd</a></p>
     </div>
   </section>
 
