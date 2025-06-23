@@ -199,7 +199,7 @@ description: Our commitment to your privacy and data protection.
         </ul>
       </li>
     </ul>
-    <p>Your authentication identifier is used to authenticate your access to Daz at <a href="https://postapp.cd">https://postapp.cd</a> and to uniquely identify you.</p>
+    <p>Your authentication identifier is used to authenticate your access to Daz at <a href="https://dazsuper.com">https://dazsuper.com</a> and to uniquely identify you.</p>
     <p>You will be given the choice to set up 2-Factor Authentication to secure your account. For 2FA over SMS, we will require your phone number. This information will be shared with a SMS service provider.</p>
     
     <h5>Daz Home Account Setup</h5>
