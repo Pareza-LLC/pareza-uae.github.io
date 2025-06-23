@@ -293,7 +293,7 @@ description: Legal terms governing the use of Daz App
       <p>Pour toute question, demande d'assistance ou réclamation :</p>
       <p><strong>Pareza SASU</strong><br>
       📍 77, avenue de la Justice, Gombe, Kinshasa, RDC<br>
-      📧 Email : <a href="mailto:info@parezagroup.com">info@parezagroup.com</a></p>
+      📧 Email : <a href="mailto:info@pareza.cd">info@pareza.cd</a></p>
     </div>
   </section>
 </div>
