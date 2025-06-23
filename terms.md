@@ -128,7 +128,7 @@ description: Legal terms governing the use of Daz App
     
     <div class="contact-box">
       <p><strong>Effective Date:</strong> May 20, 2025</p>
-      <p>Welcome to <strong>Daz App</strong>, a multifunctional mobile application provided by <strong>Daz Pay</strong>, a company registered in the Democratic Republic of Congo, with its registered office at <strong>77 avenue de la Justice, Gombe, Kinshasa, DRC</strong> ("we," "us," or "our").</p>
+      <p>Welcome to <strong>Daz App</strong>, a multifunctional mobile application provided by <strong>Daz Pay</strong>, a company registered in the United Kingdom, with its registered office at <strong>77 Bell Yard, London, England, WC2A 2JR</strong> ("we," "us," or "our").</p>
       <p>By using Daz App, you agree to be bound by these Terms and Conditions, along with our <a href="/privacy">Privacy Policy</a>. If you do not agree, please do not use the App.</p>
     </div>
     
@@ -199,13 +199,13 @@ description: Legal terms governing the use of Daz App
     <p>We may revise these Terms from time to time. Users will be notified through the App or by email of any material changes. Continued use of Daz App following changes constitutes your acceptance of the new terms.</p>
     
     <h3>12. Governing Law and Jurisdiction</h3>
-    <p>These Terms are governed by the laws of the <strong>Democratic Republic of Congo</strong>. Any disputes shall be subject to the exclusive jurisdiction of the courts located in <strong>Kinshasa-Gombe</strong>.</p>
+    <p>These Terms are governed by the laws of the <strong>United Kingdom</strong>. Any disputes shall be subject to the exclusive jurisdiction of the courts located in <strong>London-England</strong>.</p>
     
     <div class="contact-box">
       <h3>13. Contact Us</h3>
       <p>For questions, support, or legal concerns, please contact:</p>
       <p><strong>Daz Pay</strong><br>
-      📍 77 avenue de la Justice, Gombe, Kinshasa, DRC<br>
+      📍 7 Bell Yard, London, England, WC2A 2JR<br>
       📧 Email: <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
     </div>
   </section>
@@ -215,7 +215,7 @@ description: Legal terms governing the use of Daz App
     
     <div class="contact-box">
       <p><strong>Date d'entrée en vigueur :</strong> 20 mai 2025</p>
-      <p>Bienvenue sur <strong>Daz App</strong>, une application mobile multifonctionnelle proposée par <strong>Daz Pay</strong>, société enregistrée en République Démocratique du Congo, dont le siège est situé au <strong>77, avenue de la Justice, Gombe, Kinshasa, RDC</strong> (« nous », « notre », ou « nos »).</p>
+      <p>Bienvenue sur <strong>Daz App</strong>, une application mobile multifonctionnelle proposée par <strong>Daz Pay</strong>, société enregistrée au Royaume-Uni, dont le siège est situé au <strong>7 Bell Yard, Londres, Angleterre, WC2A 2JR</strong> (« nous », « notre », ou « nos »).</p>
       <p>En utilisant Daz App, vous acceptez de vous conformer aux présentes Conditions Générales d'Utilisation ainsi qu'à notre <a href="/privacy">Politique de Confidentialité</a>. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.</p>
     </div>
     
@@ -286,13 +286,13 @@ description: Legal terms governing the use of Daz App
     <p>Nous nous réservons le droit de mettre à jour ces Conditions à tout moment. Toute modification importante fera l'objet d'une notification via l'application ou par e-mail. En continuant à utiliser Daz App, vous acceptez les conditions mises à jour.</p>
     
     <h3>12. Droit applicable et juridiction compétente</h3>
-    <p>Les présentes Conditions sont régies par le droit de la <strong>République Démocratique du Congo</strong>. Tout litige relatif à leur application ou à l'utilisation de Daz App sera soumis aux tribunaux compétents de <strong>Kinshasa-Gombe</strong>.</p>
+    <p>Les présentes Conditions sont régies par le droit de la <strong>au Royaume-Uni</strong>. Tout litige relatif à leur application ou à l'utilisation de Daz App sera soumis aux tribunaux compétents de <strong>Londres-Angleterre</strong>.</p>
     
     <div class="contact-box">
       <h3>13. Contact</h3>
       <p>Pour toute question, demande d'assistance ou réclamation :</p>
       <p><strong>Daz Pay</strong><br>
-      📍 7 Bell Yard, London, England, WC2A 2JR<br>
+      📍 7 Bell Yard, Londres, Angleterre, WC2A 2JR<br>
       📧 Email : <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
     </div>
   </section>
