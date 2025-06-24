@@ -180,7 +180,7 @@ description: Our commitment to your privacy and data protection.
       <li>The right to object</li>
       <li>Rights in relation to automated decision making and profiling.</li>
     </ul>
-    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@dazsuper.com">info@dazspp.cd</a></p>
+    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
     
     <h3>2.2 What information do you collect about me and why?</h3>
     <p>The information we collect is for the purpose of supporting your management of hosted homeservers through Daz Services, or to support operational maintenance of the Daz client. We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.</p>
