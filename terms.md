@@ -128,7 +128,7 @@ description: Legal terms governing the use of Daz App
     
     <div class="contact-box">
       <p><strong>Effective Date:</strong> May 20, 2025</p>
-      <p>Welcome to <strong>Daz App</strong>, a multifunctional mobile application provided by <strong>Daz Pay</strong>, a company registered in the United Kingdom, with its registered office at <strong>77 Bell Yard, London, England, WC2A 2JR</strong> ("we," "us," or "our").</p>
+      <p>Welcome to <strong>Daz App</strong>, a multifunctional mobile application provided by <strong>Pareza Limited</strong>, a company registered in the United Kingdom, with its registered office at <strong>77 Bell Yard, London, England, WC2A 2JR</strong> ("we," "us," or "our").</p>
       <p>By using Daz App, you agree to be bound by these Terms and Conditions, along with our <a href="/privacy">Privacy Policy</a>. If you do not agree, please do not use the App.</p>
     </div>
     
@@ -170,8 +170,8 @@ description: Legal terms governing the use of Daz App
     </ul>
     
     <h3>6. Intellectual Property</h3>
-    <p>All materials in Daz App including software, text, images, graphics, and logos---are the property of <strong>Daz Pay</strong> or licensed third parties.</p>
-    <p>You may not copy, reproduce, modify, or distribute any part of the App unless authorized in writing by Daz Pay.</p>
+    <p>All materials in Daz App including software, text, images, graphics, and logos---are the property of <strong>Pareza Limited</strong> or licensed third parties.</p>
+    <p>You may not copy, reproduce, modify, or distribute any part of the App unless authorized in writing by Pareza Limited.</p>
     
     <h3>7. Privacy and Data</h3>
     <p>We take user privacy seriously. Your personal data is collected and processed in accordance with our <a href="/privacy">Privacy Policy</a>. This includes identity data for user verification, communication history, and usage logs for operational and security purposes.</p>
@@ -187,7 +187,7 @@ description: Legal terms governing the use of Daz App
     
     <h3>10. Disclaimer and Limitation of Liability</h3>
     <p>Daz App is provided on an "as-is" and "as-available" basis.</p>
-    <p>To the maximum extent permitted by law, <strong>Daz Pay</strong> disclaims any liability for:</p>
+    <p>To the maximum extent permitted by law, <strong>Pareza Limited</strong> disclaims any liability for:</p>
     <ul>
       <li>Loss of data or content</li>
       <li>Unavailability or interruptions of service</li>
@@ -204,7 +204,7 @@ description: Legal terms governing the use of Daz App
     <div class="contact-box">
       <h3>13. Contact Us</h3>
       <p>For questions, support, or legal concerns, please contact:</p>
-      <p><strong>Daz Pay</strong><br>
+      <p><strong>Pareza Limited</strong><br>
       📍 7 Bell Yard, London, England, WC2A 2JR<br>
       📧 Email: <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
     </div>
@@ -215,7 +215,7 @@ description: Legal terms governing the use of Daz App
     
     <div class="contact-box">
       <p><strong>Date d'entrée en vigueur :</strong> 20 mai 2025</p>
-      <p>Bienvenue sur <strong>Daz App</strong>, une application mobile multifonctionnelle proposée par <strong>Daz Pay</strong>, société enregistrée au Royaume-Uni, dont le siège est situé au <strong>7 Bell Yard, Londres, Angleterre, WC2A 2JR</strong> (« nous », « notre », ou « nos »).</p>
+      <p>Bienvenue sur <strong>Daz App</strong>, une application mobile multifonctionnelle proposée par <strong>Pareza Limited</strong>, société enregistrée au Royaume-Uni, dont le siège est situé au <strong>7 Bell Yard, Londres, Angleterre, WC2A 2JR</strong> (« nous », « notre », ou « nos »).</p>
       <p>En utilisant Daz App, vous acceptez de vous conformer aux présentes Conditions Générales d'Utilisation ainsi qu'à notre <a href="/privacy">Politique de Confidentialité</a>. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.</p>
     </div>
     
@@ -257,7 +257,7 @@ description: Legal terms governing the use of Daz App
     </ul>
     
     <h3>6. Propriété intellectuelle</h3>
-    <p>L'ensemble du contenu de Daz App (textes, graphiques, logos, interfaces, logiciels, etc.) est la propriété exclusive de <strong>Daz Pay</strong> ou est utilisé sous licence.</p>
+    <p>L'ensemble du contenu de Daz App (textes, graphiques, logos, interfaces, logiciels, etc.) est la propriété exclusive de <strong>Pareza Limited</strong> ou est utilisé sous licence.</p>
     <p>Toute reproduction, modification ou distribution sans autorisation écrite est strictement interdite.</p>
     
     <h3>7. Données personnelles et confidentialité</h3>
@@ -274,7 +274,7 @@ description: Legal terms governing the use of Daz App
     
     <h3>10. Limitation de responsabilité</h3>
     <p>L'application est fournie « en l'état » et « selon disponibilité ».</p>
-    <p>Dans les limites autorisées par la loi, <strong>Daz Pay</strong> décline toute responsabilité en cas de :</p>
+    <p>Dans les limites autorisées par la loi, <strong>Pareza Limited</strong> décline toute responsabilité en cas de :</p>
     <ul>
       <li>Perte de données ou de contenu</li>
       <li>Indisponibilité temporaire ou permanente de services</li>
@@ -291,7 +291,7 @@ description: Legal terms governing the use of Daz App
     <div class="contact-box">
       <h3>13. Contact</h3>
       <p>Pour toute question, demande d'assistance ou réclamation :</p>
-      <p><strong>Daz Pay</strong><br>
+      <p><strong>Pareza Limited</strong><br>
       📍 7 Bell Yard, Londres, Angleterre, WC2A 2JR<br>
       📧 Email : <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
     </div>

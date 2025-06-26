@@ -117,16 +117,16 @@ description: Our commitment to your privacy and data protection.
     
     <p>Where you read 'Daz' it refers to all services made available at <a href="https://dazsuper.com">https://dazsuper.com</a> for:</p>
     <ul>
-      <li>The Daz chat app, a DazPay platform which you can use to connect to any server that implements the DazPay protocol;</li>
-      <li>The DazPay developer communication app;</li>
-      <li>The purchase, provisioning, configuration, monitoring, and management of hosted homeservers and associated services via Daz DazPay Services, or the Daz app store.</li>
+      <li>The Daz chat app, a Pareza Limited platform which you can use to connect to any server that implements the Pareza Limited protocol;</li>
+      <li>The Pareza Limited developer communication app;</li>
+      <li>The purchase, provisioning, configuration, monitoring, and management of hosted homeservers and associated services via Daz Pareza Limited Services, or the Daz app store.</li>
     </ul>
     
-    <p>Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Daz which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open DazPay decentralized communication protocol with the public DazPay Network.</p>
+    <p>Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Daz which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Pareza Limited decentralized communication protocol with the public Pareza Limited Network.</p>
     
-    <p>When you read 'the Service' in this document, it refers to the Daz chat app instances exposed on <a href="https://dazsuper.com">https://dazsuper.com</a> (or subdomains) by DazPay.</p>
+    <p>When you read 'the Service' in this document, it refers to the Daz chat app instances exposed on <a href="https://dazsuper.com">https://dazsuper.com</a> (or subdomains) by Pareza Limited.</p>
     
-    <p>Where you read 'Daz' or 'we' or 'us' below, it refers to Daz, a trading name of DazPay.</p>
+    <p>Where you read 'Daz' or 'we' or 'us' below, it refers to Daz, a trading name of Pareza Limited.</p>
     
     <div class="contact-box">
       <p><strong>Daz is the Data Controller for your data.</strong> We can be contacted as per the details below:</p>
