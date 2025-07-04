@@ -206,7 +206,7 @@ description: Legal terms governing the use of Daz App
       <p>For questions, support, or legal concerns, please contact:</p>
       <p><strong>Pareza Limited</strong><br>
       📍 7 Bell Yard, London, England, WC2A 2JR<br>
-      📧 Email: <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
+      📧 Email: <a href="mailto:info@daz.im">info@daz.im</a></p>
     </div>
   </section>
 
@@ -293,7 +293,7 @@ description: Legal terms governing the use of Daz App
       <p>Pour toute question, demande d'assistance ou réclamation :</p>
       <p><strong>Pareza Limited</strong><br>
       📍 7 Bell Yard, Londres, Angleterre, WC2A 2JR<br>
-      📧 Email : <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
+      📧 Email : <a href="mailto:info@daz.im">info@daz.im</a></p>
     </div>
   </section>
 </div>

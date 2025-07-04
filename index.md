@@ -130,11 +130,11 @@ description: Our commitment to your privacy and data protection.
     
     <div class="contact-box">
       <p><strong>Daz is the Data Controller for your data.</strong> We can be contacted as per the details below:</p>
-      <p>Email: <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
+      <p>Email: <a href="mailto:info@daz.im">info@daz.im</a></p>
       <p>Postal address:<br>
       Daz Pay<br>
       7 Bell Yard, London, England, WC2A 2JR</p>
-      <p>Should you have other questions or concerns about this document, please send us an email at <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
+      <p>Should you have other questions or concerns about this document, please send us an email at <a href="mailto:info@daz.im">info@daz.im</a></p>
     </div>
     
     <h3>1.2. Scope of This Document</h3>
@@ -180,7 +180,7 @@ description: Our commitment to your privacy and data protection.
       <li>The right to object</li>
       <li>Rights in relation to automated decision making and profiling.</li>
     </ul>
-    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@dazsuper.com">info@dazsuper.com</a></p>
+    <p>For more information about these rights, please see the guidance provided by the ICO. If you have any questions or are unsure how to exercise your rights, please contact us at <a href="mailto:info@daz.im">info@daz.im</a></p>
     
     <h3>2.2 What information do you collect about me and why?</h3>
     <p>The information we collect is for the purpose of supporting your management of hosted homeservers through Daz Services, or to support operational maintenance of the Daz client. We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.</p>
@@ -240,14 +240,14 @@ description: Our commitment to your privacy and data protection.
     <h3>2.4. How do you handle passwords?</h3>
     <p>We never store password data in plain text; instead they are stored hashed (with at least 12 rounds of bcrypt, including both a salt and a server-side pepper secret). Passwords sent to the server are encrypted using SSL.</p>
     <p>It is your sole responsibility to keep your user name, password and other sensitive information confidential. Actions taken using your credentials shall be deemed to be actions taken by you, with all consequences including service termination, civil and criminal penalties.</p>
-    <p>If you become aware of any unauthorised use of your account or any other breach of security, you must notify Daz immediately by sending an email to <a href="mailto:info@dazsuper.com">info@dazsuper.com</a>. Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.</p>
+    <p>If you become aware of any unauthorised use of your account or any other breach of security, you must notify Daz immediately by sending an email to <a href="mailto:info@daz.im">info@daz.im</a>. Users should manage good password hygiene (e.g. using a password manager) and change their password if they believe their account is compromised.</p>
     <p>If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.</p>
     
     <h3>2.5. Our commitment to Children's Privacy</h3>
     <p>We never knowingly collect or maintain information in Daz, through any of the Services provided, from those we know are under 16, and no part of Daz is structured to attract anyone under 16. If you are under 16, please do not use the Service.</p>
     
     <h3>2.6. How can I access or correct my information?</h3>
-    <p>If you are a user of the Daz chat app you can request a copy of your data by emailing <a href="mailto:info@dazsuper.com">info@dazsuper.com</a>. We are working on a solution which will allow you to download the data automatically.</p>
+    <p>If you are a user of the Daz chat app you can request a copy of your data by emailing <a href="mailto:info@daz.im">info@daz.im</a>. We are working on a solution which will allow you to download the data automatically.</p>
     
     <h3>2.7. What are the Guidelines Daz follows when accessing my data?</h3>
     <ul>
@@ -273,7 +273,7 @@ description: Our commitment to your privacy and data protection.
 
   <section>
     <h2>3. Making a Complaint</h2>
-    <p>We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at <a href="mailto:info@dazsuper.com">info@dazsuper.com</a> if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.</p>
+    <p>We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at <a href="mailto:info@daz.im">info@daz.im</a> if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.</p>
     <p>If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law) at <a href="https://www.ico.org.uk/concerns" target="_blank">https://www.ico.org.uk/concerns</a>.</p>
   </section>
 </div>
